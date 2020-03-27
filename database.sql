@@ -2,7 +2,7 @@
 -- version 5.0.2
 -- https://www.phpmyadmin.net/
 --
--- Host: d51765.mysql.zonevs.eu
+-- Host: abc
 -- Generation Time: Mar 27, 2020 at 01:18 PM
 -- Server version: 10.2.31-MariaDB-log
 -- PHP Version: 7.2.18
@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `d51765sd98154`
+-- Database: `abc`
 --
 
 -- --------------------------------------------------------
