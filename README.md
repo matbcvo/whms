@@ -1,1 +1,1 @@
-# whms
+# Web-based Warehouse Management System
